@@ -1,23 +1,23 @@
 // 나머지 구하기
 
-// function solution(num1, num2) {
-//     let answer = num1 % num2;
-//     return answer;
-// }
+function solution(num1, num2) {
+    let answer = num1 % num2;
+    return answer;
+}
 
 // ------------------------------------------------------------------------------------------------------------------------------------------------------------------ //
 
 // 음양 더하기
 
-// function solution(absolutes, signs) {
-//     let answer = 0;
+function solution(absolutes, signs) {
+    let answer = 0;
 
-//     for (let i = 0; i < absolutes.length; i++) {
-//         signs[i] ? (answer += absolutes[i]) : (answer -= absolutes[i]);
-//     }
+    for (let i = 0; i < absolutes.length; i++) {
+        signs[i] ? (answer += absolutes[i]) : (answer -= absolutes[i]);
+    }
 
-//     return answer;
-// }
+    return answer;
+}
 
 // 삼항연산자를 사용하면서 조건에 따라 값을 선택하게 함
 

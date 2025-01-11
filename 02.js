@@ -4,9 +4,9 @@
 
 // 문자열 내 p와 y의 개수
 
-// function solution(s) {
-//     return s.toUpperCase().split("P").length === s.toUpperCase().split("Y").length;
-// }
+function solution(s) {
+    return s.toUpperCase().split("P").length === s.toUpperCase().split("Y").length;
+}
 
 // toLowerCase();
 // 문자열의 모든 대문자를 새로운 소문자로 변환해서 반환합니다.
