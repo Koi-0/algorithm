@@ -1,4 +1,6 @@
-### 🧩 Algorithm Practice Repository
+# 🧩 Algorithm Practice Repository
+
+
 
 🚀 **논리적 사고력과 문제 해결 능력을 향상시키기 위한 알고리즘 풀이 기록** 🚀
 
